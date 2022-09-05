@@ -1,0 +1,2 @@
+# Netflix-Stock
+We visualize the stock data for Netflix. A stock profile in finance is a collection of investigations, visualisations, and analysis that delve deeply into the data of a publicly traded company. The Dow Jones Industrial Average is being used to contrast Netflix shares with the current stock market. I analyzed, prepared the data, and plotted it. The financial experts will use the visualization to evaluate the risk associated with the shares of Netflix.
